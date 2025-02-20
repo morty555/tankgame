@@ -1,4 +1,4 @@
-package tankgame;
+package TankGame02;
 
 public class myTank extends Tank {
     public myTank(int x, int y) {
